@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "U3-24KompiuterinisZaidimas/1.0.0": {
+        "runtime": {
+          "U3-24KompiuterinisZaidimas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "U3-24KompiuterinisZaidimas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

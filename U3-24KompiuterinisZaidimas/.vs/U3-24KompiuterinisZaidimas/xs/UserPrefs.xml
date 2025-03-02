@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{DA425019-2D51-4AF7-951D-FD8CD9C630A9}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.U3-24KompiuterinisZaidimas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Elfai.csv">
+    <Files>
+      <File FileName="Program.cs" Line="20" Column="37" />
+      <File FileName="InputOutput.cs" Line="240" Column="14" />
+      <File FileName="HeroRegister.cs" Line="21" Column="30" />
+      <File FileName="HeroContainer.cs" Line="12" Column="22" />
+      <File FileName="Hero.cs" Line="4" Column="53" />
+      <File FileName="Troliai.csv" Line="5" Column="18" />
+      <File FileName="Elfai.csv" Line="6" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="U3-24KompiuterinisZaidimas" expanded="True">
+            <Node name="U3-24KompiuterinisZaidimas" expanded="True">
+              <Node name="Elfai.csv" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="U3-24KompiuterinisZaidimas" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
